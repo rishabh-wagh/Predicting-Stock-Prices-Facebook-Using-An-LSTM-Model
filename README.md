@@ -1,7 +1,7 @@
 # Predicting-Stock-Prices-Facebook-Using-An-LSTM-Model
 Time-Series Forecasting: Predicting Stock Prices Facebook Using An LSTM Model
 
-Predicted the stock price of Facebook stocks for january 2020 with the help RNN. For each day, used prior 40 days of stock prices.
+Predicted the stock price of Facebook stocks for January 2020 with the help of RNN. For each day, used prior 40 days of stock prices.
 
 
 * Training data   - contains information on Facebook’s stock price from the start of 2015 to the end of 2019
